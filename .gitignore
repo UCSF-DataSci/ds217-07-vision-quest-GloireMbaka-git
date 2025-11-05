@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Misc
+*.log
+.DS_Store
+
+# Keep data and output files
+!data/
+!output/
+!*.csv
